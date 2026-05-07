@@ -1,0 +1,19 @@
+
+body{
+    margin: 0;
+   
+}
+header{
+    height: 72px;
+    display:flex;
+    justify-content: space-between;
+    padding: 0 20%;
+}
+header a{
+    margin-right: 25px;
+    text-decoration: none;
+}
+
+h1{
+    color:blueviolet;
+}
